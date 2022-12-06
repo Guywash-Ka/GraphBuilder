@@ -1,0 +1,11 @@
+C:\Users\rodvl\source\repos\GraphBuilding\GraphBuilding\obj\Debug\GraphBuilding.csproj.AssemblyReference.cache
+C:\Users\rodvl\source\repos\GraphBuilding\GraphBuilding\obj\Debug\GraphBuilding.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodvl\source\repos\GraphBuilding\GraphBuilding\obj\Debug\GraphBuilding.Form1.resources
+C:\Users\rodvl\source\repos\GraphBuilding\GraphBuilding\obj\Debug\GraphBuilding.Properties.Resources.resources
+C:\Users\rodvl\source\repos\GraphBuilding\GraphBuilding\obj\Debug\GraphBuilding.csproj.GenerateResource.cache
+C:\Users\rodvl\source\repos\GraphBuilding\GraphBuilding\obj\Debug\GraphBuilding.csproj.CoreCompileInputs.cache
+C:\Users\rodvl\source\repos\GraphBuilding\GraphBuilding\bin\Debug\GraphBuilding.exe.config
+C:\Users\rodvl\source\repos\GraphBuilding\GraphBuilding\bin\Debug\GraphBuilding.exe
+C:\Users\rodvl\source\repos\GraphBuilding\GraphBuilding\bin\Debug\GraphBuilding.pdb
+C:\Users\rodvl\source\repos\GraphBuilding\GraphBuilding\obj\Debug\GraphBuilding.exe
+C:\Users\rodvl\source\repos\GraphBuilding\GraphBuilding\obj\Debug\GraphBuilding.pdb
